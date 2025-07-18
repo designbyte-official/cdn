@@ -1,0 +1,8 @@
+# Ignore Python scripts and other local files
+*.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
